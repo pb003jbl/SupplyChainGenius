@@ -300,22 +300,8 @@ class GoogleMapsIntegration:
                     tooltip="Optimized Route"
                 ).add_to(m)
         
-        # Add legend
-        legend_html = '''
-        <div style="position: fixed; 
-                    bottom: 50px; left: 50px; width: 150px; height: 120px; 
-                    background-color: white; border:2px solid grey; z-index:9999; 
-                    font-size:14px; padding: 10px">
-        <p><b>Route Legend</b></p>
-        <p><i class="fa fa-warehouse" style="color:blue"></i> Source Hub</p>
-        <p><i class="fa fa-map-marker" style="color:red"></i> Destination</p>
-        <p><span style="color:green">━━━</span> Low Cost Route</p>
-        <p><span style="color:orange">━━━</span> Medium Cost Route</p>
-        <p><span style="color:red">━━━</span> High Cost Route</p>
-        <p><span style="color:purple">━━━</span> Optimized Route</p>
-        </div>
-        '''
-        m.get_root().children[list(m.get_root().children.keys())[0]].add_child(folium.Element(legend_html))
+        # Note: Map includes color-coded routes
+        # Green = Low cost routes, Orange = Medium cost, Red = High cost, Purple = Optimized routes
         
         return m
     

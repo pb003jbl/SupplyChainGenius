@@ -8,19 +8,5 @@
   "tavily_api_key": "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",
   "weather_api_key": "",
   "news_api_key": "",
-  "maps_api_key": "",
-  "default_time_range": "Last 30 Days",
-  "auto_refresh": false,
-  "dark_mode": false,
-  "show_tutorial": true,
-  "default_chart_type": "Bar Chart",
-  "chart_color_scheme": "Professional Blue",
-  "show_data_labels": true,
-  "animate_charts": true,
-  "selected_kpis": [
-    "Fill Rate",
-    "Inventory Turnover",
-    "On-Time Delivery",
-    "Cost Efficiency"
-  ]
+  "maps_api_key": "AIzaSyBSkW-HBl2DkOJni2GWgwwJL7TYBR-eflA"
 }
