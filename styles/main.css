@@ -1,0 +1,419 @@
+/* Enterprise-grade styling for Supply Chain Management Platform */
+
+/* Import professional fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* CSS Variables for consistent theming */
+:root {
+  --primary-color: #2C3E50;
+  --secondary-color: #3498DB;
+  --accent-color: #E74C3C;
+  --background-color: #F8F9FA;
+  --text-color: #2C3E50;
+  --light-gray: #ECF0F1;
+  --border-color: #BDC3C7;
+  --success-color: #27AE60;
+  --warning-color: #F39C12;
+  --font-family: 'Inter', sans-serif;
+  --border-radius: 8px;
+  --box-shadow: 0 2px 4px rgba(44, 62, 80, 0.1);
+  --grid-size: 16px;
+}
+
+/* Global styles */
+* {
+  font-family: var(--font-family) !important;
+}
+
+.main {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+/* Main header styling */
+.main-header {
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: var(--border-radius);
+  margin-bottom: 2rem;
+  text-align: center;
+  box-shadow: var(--box-shadow);
+}
+
+.main-header h1 {
+  font-size: 2.5rem !important;
+  font-weight: 700 !important;
+  margin: 0 !important;
+  color: white !important;
+}
+
+.subtitle {
+  font-size: 1.2rem !important;
+  font-weight: 400 !important;
+  margin-top: 0.5rem !important;
+  opacity: 0.9;
+  color: white !important;
+}
+
+/* Metric cards styling */
+.metric-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  border-left: 4px solid var(--secondary-color);
+  margin-bottom: 1rem;
+  transition: transform 0.2s ease-in-out;
+}
+
+.metric-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(44, 62, 80, 0.15);
+}
+
+.metric-card h3 {
+  color: var(--primary-color) !important;
+  font-weight: 600 !important;
+  font-size: 1.1rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+.metric-card p {
+  color: var(--text-color) !important;
+  font-size: 0.9rem !important;
+  line-height: 1.4 !important;
+  margin: 0 !important;
+}
+
+/* Sidebar styling */
+.css-1d391kg {
+  background-color: var(--primary-color) !important;
+}
+
+.css-1d391kg .css-1v0mbdj {
+  color: white !important;
+}
+
+/* Button styling */
+.stButton > button {
+  background-color: var(--secondary-color) !important;
+  color: white !important;
+  border: none !important;
+  border-radius: var(--border-radius) !important;
+  padding: 0.5rem 1rem !important;
+  font-weight: 500 !important;
+  transition: all 0.2s ease-in-out !important;
+}
+
+.stButton > button:hover {
+  background-color: var(--primary-color) !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 4px 8px rgba(52, 152, 219, 0.3) !important;
+}
+
+/* Primary button styling */
+.stButton > button[kind="primary"] {
+  background-color: var(--accent-color) !important;
+}
+
+.stButton > button[kind="primary"]:hover {
+  background-color: #C0392B !important;
+}
+
+/* Metric styling */
+.metric-container {
+  background: white;
+  padding: 1rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  margin-bottom: 1rem;
+}
+
+/* Alert styling */
+.stAlert {
+  border-radius: var(--border-radius) !important;
+}
+
+.stAlert[data-baseweb="notification"] {
+  background-color: white !important;
+  border-left: 4px solid var(--secondary-color) !important;
+}
+
+/* Success alerts */
+.stAlert[data-baseweb="notification"][data-testid="stNotificationContentSuccess"] {
+  border-left-color: var(--success-color) !important;
+}
+
+/* Warning alerts */
+.stAlert[data-baseweb="notification"][data-testid="stNotificationContentWarning"] {
+  border-left-color: var(--warning-color) !important;
+}
+
+/* Error alerts */
+.stAlert[data-baseweb="notification"][data-testid="stNotificationContentError"] {
+  border-left-color: var(--accent-color) !important;
+}
+
+/* Dataframe styling */
+.dataframe {
+  border-radius: var(--border-radius) !important;
+  overflow: hidden !important;
+  box-shadow: var(--box-shadow) !important;
+}
+
+.dataframe thead tr {
+  background-color: var(--primary-color) !important;
+  color: white !important;
+}
+
+.dataframe tbody tr:nth-child(even) {
+  background-color: var(--light-gray) !important;
+}
+
+.dataframe tbody tr:hover {
+  background-color: rgba(52, 152, 219, 0.1) !important;
+}
+
+/* Selectbox styling */
+.stSelectbox > div > div {
+  background-color: white !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: var(--border-radius) !important;
+}
+
+/* File uploader styling */
+.stFileUploader > div {
+  background-color: white !important;
+  border: 2px dashed var(--border-color) !important;
+  border-radius: var(--border-radius) !important;
+  padding: 2rem !important;
+  text-align: center !important;
+}
+
+.stFileUploader > div:hover {
+  border-color: var(--secondary-color) !important;
+  background-color: rgba(52, 152, 219, 0.05) !important;
+}
+
+/* Tab styling */
+.stTabs [data-baseweb="tab-list"] {
+  gap: 8px;
+}
+
+.stTabs [data-baseweb="tab"] {
+  background-color: white !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: var(--border-radius) !important;
+  color: var(--text-color) !important;
+  font-weight: 500 !important;
+}
+
+.stTabs [aria-selected="true"] {
+  background-color: var(--secondary-color) !important;
+  color: white !important;
+  border-color: var(--secondary-color) !important;
+}
+
+/* Text input styling */
+.stTextInput > div > div > input {
+  border: 1px solid var(--border-color) !important;
+  border-radius: var(--border-radius) !important;
+  padding: 0.5rem !important;
+}
+
+.stTextInput > div > div > input:focus {
+  border-color: var(--secondary-color) !important;
+  box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.2) !important;
+}
+
+/* Number input styling */
+.stNumberInput > div > div > input {
+  border: 1px solid var(--border-color) !important;
+  border-radius: var(--border-radius) !important;
+}
+
+/* Slider styling */
+.stSlider > div > div > div > div {
+  background-color: var(--secondary-color) !important;
+}
+
+/* Checkbox styling */
+.stCheckbox > label > div[data-testid="stCheckbox"] {
+  background-color: white !important;
+  border: 2px solid var(--border-color) !important;
+  border-radius: 4px !important;
+}
+
+.stCheckbox > label > div[data-testid="stCheckbox"]:checked {
+  background-color: var(--secondary-color) !important;
+  border-color: var(--secondary-color) !important;
+}
+
+/* Progress bar styling */
+.stProgress > div > div > div {
+  background-color: var(--secondary-color) !important;
+}
+
+/* Expander styling */
+.streamlit-expanderHeader {
+  background-color: white !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: var(--border-radius) !important;
+  color: var(--text-color) !important;
+  font-weight: 500 !important;
+}
+
+.streamlit-expanderContent {
+  background-color: white !important;
+  border: 1px solid var(--border-color) !important;
+  border-top: none !important;
+  border-radius: 0 0 var(--border-radius) var(--border-radius) !important;
+}
+
+/* Plotly chart container styling */
+.js-plotly-plot {
+  border-radius: var(--border-radius) !important;
+  box-shadow: var(--box-shadow) !important;
+  background-color: white !important;
+  margin-bottom: 1rem !important;
+}
+
+/* Card layout for sections */
+.section-card {
+  background: white;
+  padding: 2rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  margin-bottom: 2rem;
+  border: 1px solid var(--light-gray);
+}
+
+/* Status indicators */
+.status-high {
+  background-color: rgba(231, 76, 60, 0.1) !important;
+  border-left: 4px solid var(--accent-color) !important;
+  padding: 1rem !important;
+  border-radius: var(--border-radius) !important;
+  margin: 0.5rem 0 !important;
+}
+
+.status-medium {
+  background-color: rgba(243, 156, 18, 0.1) !important;
+  border-left: 4px solid var(--warning-color) !important;
+  padding: 1rem !important;
+  border-radius: var(--border-radius) !important;
+  margin: 0.5rem 0 !important;
+}
+
+.status-low {
+  background-color: rgba(39, 174, 96, 0.1) !important;
+  border-left: 4px solid var(--success-color) !important;
+  padding: 1rem !important;
+  border-radius: var(--border-radius) !important;
+  margin: 0.5rem 0 !important;
+}
+
+/* Loading spinner overlay */
+.stSpinner {
+  background-color: rgba(248, 249, 250, 0.9) !important;
+  border-radius: var(--border-radius) !important;
+}
+
+/* Footer styling */
+.footer {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 2rem;
+  text-align: center;
+  margin-top: 4rem;
+  border-radius: var(--border-radius);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .main-header h1 {
+    font-size: 2rem !important;
+  }
+  
+  .subtitle {
+    font-size: 1rem !important;
+  }
+  
+  .metric-card {
+    margin-bottom: 0.5rem;
+    padding: 1rem;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--light-gray);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--secondary-color);
+}
+
+/* Animation classes */
+.fade-in {
+  animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.slide-in {
+  animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+  from { transform: translateX(-20px); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
+/* Grid system */
+.grid-container {
+  display: grid;
+  gap: var(--grid-size);
+  padding: var(--grid-size);
+}
+
+.grid-2-cols {
+  grid-template-columns: 1fr 1fr;
+}
+
+.grid-3-cols {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.grid-4-cols {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+/* Professional spacing */
+.mb-1 { margin-bottom: calc(var(--grid-size) * 0.5) !important; }
+.mb-2 { margin-bottom: var(--grid-size) !important; }
+.mb-3 { margin-bottom: calc(var(--grid-size) * 1.5) !important; }
+.mb-4 { margin-bottom: calc(var(--grid-size) * 2) !important; }
+
+.mt-1 { margin-top: calc(var(--grid-size) * 0.5) !important; }
+.mt-2 { margin-top: var(--grid-size) !important; }
+.mt-3 { margin-top: calc(var(--grid-size) * 1.5) !important; }
+.mt-4 { margin-top: calc(var(--grid-size) * 2) !important; }
+
+.p-1 { padding: calc(var(--grid-size) * 0.5) !important; }
+.p-2 { padding: var(--grid-size) !important; }
+.p-3 { padding: calc(var(--grid-size) * 1.5) !important; }
+.p-4 { padding: calc(var(--grid-size) * 2) !important; }

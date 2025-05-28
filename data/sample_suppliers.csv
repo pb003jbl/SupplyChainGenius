@@ -1,0 +1,21 @@
+Supplier_Name,Product,Lead_Time_Days,Reliability_Score,Cost_per_Unit,Location,Capacity_per_Month,Quality_Rating,Contract_Type
+TechCorp India,Electronics,14,92,45.50,Mumbai,10000,4.5,Long-term
+Fashion Forward Ltd,Clothing,21,88,28.75,Delhi,8000,4.2,Short-term
+MediSupply Co,Pharmaceuticals,7,96,85.25,Bangalore,5000,4.8,Long-term
+Fresh Foods Ltd,Food Products,3,94,12.50,Chennai,15000,4.4,Medium-term
+TextileMakers Inc,Textiles,18,85,22.30,Hyderabad,12000,4.1,Long-term
+ChemTech Solutions,Chemicals,12,91,67.80,Ahmedabad,6000,4.6,Long-term
+ElectroMax Systems,Electronics,16,89,42.00,Pune,8500,4.3,Medium-term
+BioMed Supplies,Pharmaceuticals,9,93,78.90,Kolkata,4500,4.7,Long-term
+CraftMasters Ltd,Handicrafts,25,82,15.20,Jaipur,3000,4.0,Short-term
+SpiceKing Trading,Spices,5,90,8.75,Kochi,20000,4.5,Medium-term
+AutoParts Pro,Automotive Parts,20,87,156.40,Indore,2500,4.3,Long-term
+QualityTextiles,Textiles,22,84,24.60,Lucknow,9000,4.0,Short-term
+PharmaLife Corp,Pharmaceuticals,8,95,82.15,Bhopal,4000,4.8,Long-term
+SouthTextiles Co,Textiles,19,86,23.80,Coimbatore,11000,4.2,Medium-term
+TechnoElectronics,Electronics,15,90,44.25,Chandigarh,7500,4.4,Long-term
+GlobalClothing Inc,Clothing,23,83,30.40,Mumbai,6500,4.1,Short-term
+MegaElectronics Ltd,Electronics,17,88,43.80,Delhi,9500,4.3,Medium-term
+HealthCare Supplies,Pharmaceuticals,10,94,80.60,Bangalore,5500,4.6,Long-term
+PremiumElectronics,Electronics,13,91,46.90,Chennai,8000,4.5,Long-term
+FashionTextiles,Textiles,20,85,21.95,Kolkata,10500,4.1,Medium-term

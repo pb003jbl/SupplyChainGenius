@@ -1,0 +1,21 @@
+City,Product,Forecasted_Demand,Month,Confidence_Level,Market_Segment
+Mumbai,Electronics,2500,January,0.85,B2C
+Delhi,Clothing,1800,January,0.78,B2C
+Bangalore,Electronics,2200,January,0.82,B2B
+Chennai,Pharmaceuticals,1600,January,0.91,B2B
+Kolkata,Food Products,1400,January,0.75,B2C
+Pune,Electronics,1900,January,0.80,B2C
+Hyderabad,Textiles,1300,January,0.73,B2B
+Ahmedabad,Chemicals,1100,January,0.88,B2B
+Jaipur,Handicrafts,950,January,0.70,B2C
+Kochi,Spices,800,January,0.76,B2C
+Chandigarh,Electronics,1200,January,0.81,B2C
+Indore,Automotive Parts,1500,January,0.84,B2B
+Lucknow,Textiles,1100,January,0.72,B2C
+Bhopal,Pharmaceuticals,900,January,0.89,B2B
+Coimbatore,Textiles,1250,January,0.74,B2B
+Mumbai,Clothing,1600,February,0.79,B2C
+Delhi,Electronics,2300,February,0.83,B2C
+Bangalore,Pharmaceuticals,1750,February,0.90,B2B
+Chennai,Electronics,2000,February,0.81,B2C
+Kolkata,Textiles,1200,February,0.71,B2C

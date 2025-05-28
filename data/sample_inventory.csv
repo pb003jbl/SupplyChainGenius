@@ -1,0 +1,21 @@
+City,Product,Stock_Level,Warehouse_Capacity,Safety_Stock,Last_Updated,Storage_Cost_per_Unit
+Mumbai,Electronics,2800,5000,500,2024-01-15,2.50
+Delhi,Clothing,1500,3000,300,2024-01-15,1.80
+Bangalore,Electronics,2000,4000,400,2024-01-15,2.30
+Chennai,Pharmaceuticals,1800,2500,250,2024-01-15,4.20
+Kolkata,Food Products,1200,2000,200,2024-01-15,1.20
+Pune,Electronics,1700,3500,350,2024-01-15,2.40
+Hyderabad,Textiles,1400,2200,220,2024-01-15,1.60
+Ahmedabad,Chemicals,950,1800,180,2024-01-15,3.80
+Jaipur,Handicrafts,800,1500,150,2024-01-15,1.40
+Kochi,Spices,650,1200,120,2024-01-15,2.10
+Chandigarh,Electronics,1300,2500,250,2024-01-15,2.35
+Indore,Automotive Parts,1600,3000,300,2024-01-15,3.20
+Lucknow,Textiles,950,1800,180,2024-01-15,1.55
+Bhopal,Pharmaceuticals,1100,1500,150,2024-01-15,4.10
+Coimbatore,Textiles,1350,2100,210,2024-01-15,1.65
+Mumbai,Clothing,1400,2800,280,2024-01-15,1.75
+Delhi,Electronics,2500,4500,450,2024-01-15,2.45
+Bangalore,Pharmaceuticals,1650,2200,220,2024-01-15,4.15
+Chennai,Electronics,2200,4200,420,2024-01-15,2.25
+Kolkata,Textiles,1050,1900,190,2024-01-15,1.50
