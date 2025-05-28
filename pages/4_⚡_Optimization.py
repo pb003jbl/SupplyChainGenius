@@ -9,7 +9,7 @@ from utils.data_handler import DataHandler
 from utils.groq_client import GroqClient
 from utils.agents import SupplyChainAgents
 
-st.set_page_config(page_title="Optimization", page_icon="⚡", layout="wide")
+
 
 def main():
     st.title("⚡ Supply Chain Optimization")

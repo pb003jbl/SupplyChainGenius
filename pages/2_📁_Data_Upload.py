@@ -4,7 +4,7 @@ import json
 import os
 from utils.data_handler import DataHandler
 
-st.set_page_config(page_title="Data Upload", page_icon="📁", layout="wide")
+
 
 def main():
     st.title("📁 Data Upload & Management")

@@ -1,0 +1,209 @@
+{
+  "data": [
+    {
+      "Source": "Mumbai",
+      "Destination": "Delhi",
+      "Distance_km": 1400,
+      "Cost_per_km": 25,
+      "Average_Travel_Time_hrs": 18,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 6.5,
+      "Tolls_Cost": 450
+    },
+    {
+      "Source": "Mumbai",
+      "Destination": "Bangalore",
+      "Distance_km": 980,
+      "Cost_per_km": 22,
+      "Average_Travel_Time_hrs": 14,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 7.2,
+      "Tolls_Cost": 320
+    },
+    {
+      "Source": "Delhi",
+      "Destination": "Kolkata",
+      "Distance_km": 1470,
+      "Cost_per_km": 24,
+      "Average_Travel_Time_hrs": 20,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 6.8,
+      "Tolls_Cost": 380
+    },
+    {
+      "Source": "Bangalore",
+      "Destination": "Chennai",
+      "Distance_km": 350,
+      "Cost_per_km": 20,
+      "Average_Travel_Time_hrs": 6,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 8.1,
+      "Tolls_Cost": 120
+    },
+    {
+      "Source": "Mumbai",
+      "Destination": "Pune",
+      "Distance_km": 150,
+      "Cost_per_km": 18,
+      "Average_Travel_Time_hrs": 3,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 9.2,
+      "Tolls_Cost": 50
+    },
+    {
+      "Source": "Delhi",
+      "Destination": "Ahmedabad",
+      "Distance_km": 950,
+      "Cost_per_km": 23,
+      "Average_Travel_Time_hrs": 12,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 7.0,
+      "Tolls_Cost": 280
+    },
+    {
+      "Source": "Bangalore",
+      "Destination": "Hyderabad",
+      "Distance_km": 570,
+      "Cost_per_km": 21,
+      "Average_Travel_Time_hrs": 8,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 7.8,
+      "Tolls_Cost": 180
+    },
+    {
+      "Source": "Chennai",
+      "Destination": "Kolkata",
+      "Distance_km": 1670,
+      "Cost_per_km": 26,
+      "Average_Travel_Time_hrs": 22,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 6.2,
+      "Tolls_Cost": 420
+    },
+    {
+      "Source": "Pune",
+      "Destination": "Ahmedabad",
+      "Distance_km": 650,
+      "Cost_per_km": 22,
+      "Average_Travel_Time_hrs": 9,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 7.5,
+      "Tolls_Cost": 200
+    },
+    {
+      "Source": "Hyderabad",
+      "Destination": "Chennai",
+      "Distance_km": 620,
+      "Cost_per_km": 21,
+      "Average_Travel_Time_hrs": 9,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 7.6,
+      "Tolls_Cost": 190
+    },
+    {
+      "Source": "Delhi",
+      "Destination": "Chandigarh",
+      "Distance_km": 250,
+      "Cost_per_km": 19,
+      "Average_Travel_Time_hrs": 4,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 8.5,
+      "Tolls_Cost": 80
+    },
+    {
+      "Source": "Mumbai",
+      "Destination": "Kochi",
+      "Distance_km": 1380,
+      "Cost_per_km": 27,
+      "Average_Travel_Time_hrs": 19,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 6.0,
+      "Tolls_Cost": 440
+    },
+    {
+      "Source": "Bangalore",
+      "Destination": "Coimbatore",
+      "Distance_km": 480,
+      "Cost_per_km": 20,
+      "Average_Travel_Time_hrs": 7,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 8.0,
+      "Tolls_Cost": 160
+    },
+    {
+      "Source": "Chennai",
+      "Destination": "Kochi",
+      "Distance_km": 700,
+      "Cost_per_km": 23,
+      "Average_Travel_Time_hrs": 10,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 7.3,
+      "Tolls_Cost": 220
+    },
+    {
+      "Source": "Kolkata",
+      "Destination": "Bhopal",
+      "Distance_km": 1200,
+      "Cost_per_km": 25,
+      "Average_Travel_Time_hrs": 16,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 6.7,
+      "Tolls_Cost": 350
+    },
+    {
+      "Source": "Delhi",
+      "Destination": "Jaipur",
+      "Distance_km": 280,
+      "Cost_per_km": 20,
+      "Average_Travel_Time_hrs": 5,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 8.3,
+      "Tolls_Cost": 90
+    },
+    {
+      "Source": "Ahmedabad",
+      "Destination": "Indore",
+      "Distance_km": 420,
+      "Cost_per_km": 21,
+      "Average_Travel_Time_hrs": 6,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 7.7,
+      "Tolls_Cost": 140
+    },
+    {
+      "Source": "Jaipur",
+      "Destination": "Indore",
+      "Distance_km": 520,
+      "Cost_per_km": 22,
+      "Average_Travel_Time_hrs": 7,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 7.4,
+      "Tolls_Cost": 170
+    },
+    {
+      "Source": "Lucknow",
+      "Destination": "Delhi",
+      "Distance_km": 550,
+      "Cost_per_km": 23,
+      "Average_Travel_Time_hrs": 8,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 7.1,
+      "Tolls_Cost": 180
+    },
+    {
+      "Source": "Indore",
+      "Destination": "Bhopal",
+      "Distance_km": 190,
+      "Cost_per_km": 19,
+      "Average_Travel_Time_hrs": 3,
+      "Route_Type": "Highway",
+      "Fuel_Efficiency": 8.8,
+      "Tolls_Cost": 60
+    }
+  ],
+  "metadata": {
+    "saved_at": "2025-05-28T16:05:23.172351",
+    "record_count": 20,
+    "data_type": "route"
+  }
+}

@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 from utils.data_handler import DataHandler
 from utils.visualizations import create_kpi_cards, create_supply_chain_flow
 
-st.set_page_config(page_title="Dashboard", page_icon="📊", layout="wide")
+
 
 def main():
     st.title("📊 Supply Chain Dashboard")

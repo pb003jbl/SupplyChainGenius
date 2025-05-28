@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "Supplier_Name": "TechCorp India",
+      "Product": "Electronics",
+      "Lead_Time_Days": 14,
+      "Reliability_Score": 92,
+      "Cost_per_Unit": 45.5,
+      "Location": "Mumbai",
+      "Capacity_per_Month": 10000,
+      "Quality_Rating": 4.5,
+      "Contract_Type": "Long-term"
+    },
+    {
+      "Supplier_Name": "Fashion Forward Ltd",
+      "Product": "Clothing",
+      "Lead_Time_Days": 21,
+      "Reliability_Score": 88,
+      "Cost_per_Unit": 28.75,
+      "Location": "Delhi",
+      "Capacity_per_Month": 8000,
+      "Quality_Rating": 4.2,
+      "Contract_Type": "Short-term"
+    },
+    {
+      "Supplier_Name": "MediSupply Co",
+      "Product": "Pharmaceuticals",
+      "Lead_Time_Days": 7,
+      "Reliability_Score": 96,
+      "Cost_per_Unit": 85.25,
+      "Location": "Bangalore",
+      "Capacity_per_Month": 5000,
+      "Quality_Rating": 4.8,
+      "Contract_Type": "Long-term"
+    },
+    {
+      "Supplier_Name": "Fresh Foods Ltd",
+      "Product": "Food Products",
+      "Lead_Time_Days": 3,
+      "Reliability_Score": 94,
+      "Cost_per_Unit": 12.5,
+      "Location": "Chennai",
+      "Capacity_per_Month": 15000,
+      "Quality_Rating": 4.4,
+      "Contract_Type": "Medium-term"
+    },
+    {
+      "Supplier_Name": "TextileMakers Inc",
+      "Product": "Textiles",
+      "Lead_Time_Days": 18,
+      "Reliability_Score": 85,
+      "Cost_per_Unit": 22.3,
+      "Location": "Hyderabad",
+      "Capacity_per_Month": 12000,
+      "Quality_Rating": 4.1,
+      "Contract_Type": "Long-term"
+    },
+    {
+      "Supplier_Name": "ChemTech Solutions",
+      "Product": "Chemicals",
+      "Lead_Time_Days": 12,
+      "Reliability_Score": 91,
+      "Cost_per_Unit": 67.8,
+      "Location": "Ahmedabad",
+      "Capacity_per_Month": 6000,
+      "Quality_Rating": 4.6,
+      "Contract_Type": "Long-term"
+    },
+    {
+      "Supplier_Name": "ElectroMax Systems",
+      "Product": "Electronics",
+      "Lead_Time_Days": 16,
+      "Reliability_Score": 89,
+      "Cost_per_Unit": 42.0,
+      "Location": "Pune",
+      "Capacity_per_Month": 8500,
+      "Quality_Rating": 4.3,
+      "Contract_Type": "Medium-term"
+    },
+    {
+      "Supplier_Name": "BioMed Supplies",
+      "Product": "Pharmaceuticals",
+      "Lead_Time_Days": 9,
+      "Reliability_Score": 93,
+      "Cost_per_Unit": 78.9,
+      "Location": "Kolkata",
+      "Capacity_per_Month": 4500,
+      "Quality_Rating": 4.7,
+      "Contract_Type": "Long-term"
+    },
+    {
+      "Supplier_Name": "CraftMasters Ltd",
+      "Product": "Handicrafts",
+      "Lead_Time_Days": 25,
+      "Reliability_Score": 82,
+      "Cost_per_Unit": 15.2,
+      "Location": "Jaipur",
+      "Capacity_per_Month": 3000,
+      "Quality_Rating": 4.0,
+      "Contract_Type": "Short-term"
+    },
+    {
+      "Supplier_Name": "SpiceKing Trading",
+      "Product": "Spices",
+      "Lead_Time_Days": 5,
+      "Reliability_Score": 90,
+      "Cost_per_Unit": 8.75,
+      "Location": "Kochi",
+      "Capacity_per_Month": 20000,
+      "Quality_Rating": 4.5,
+      "Contract_Type": "Medium-term"
+    },
+    {
+      "Supplier_Name": "AutoParts Pro",
+      "Product": "Automotive Parts",
+      "Lead_Time_Days": 20,
+      "Reliability_Score": 87,
+      "Cost_per_Unit": 156.4,
+      "Location": "Indore",
+      "Capacity_per_Month": 2500,
+      "Quality_Rating": 4.3,
+      "Contract_Type": "Long-term"
+    },
+    {
+      "Supplier_Name": "QualityTextiles",
+      "Product": "Textiles",
+      "Lead_Time_Days": 22,
+      "Reliability_Score": 84,
+      "Cost_per_Unit": 24.6,
+      "Location": "Lucknow",
+      "Capacity_per_Month": 9000,
+      "Quality_Rating": 4.0,
+      "Contract_Type": "Short-term"
+    },
+    {
+      "Supplier_Name": "PharmaLife Corp",
+      "Product": "Pharmaceuticals",
+      "Lead_Time_Days": 8,
+      "Reliability_Score": 95,
+      "Cost_per_Unit": 82.15,
+      "Location": "Bhopal",
+      "Capacity_per_Month": 4000,
+      "Quality_Rating": 4.8,
+      "Contract_Type": "Long-term"
+    },
+    {
+      "Supplier_Name": "SouthTextiles Co",
+      "Product": "Textiles",
+      "Lead_Time_Days": 19,
+      "Reliability_Score": 86,
+      "Cost_per_Unit": 23.8,
+      "Location": "Coimbatore",
+      "Capacity_per_Month": 11000,
+      "Quality_Rating": 4.2,
+      "Contract_Type": "Medium-term"
+    },
+    {
+      "Supplier_Name": "TechnoElectronics",
+      "Product": "Electronics",
+      "Lead_Time_Days": 15,
+      "Reliability_Score": 90,
+      "Cost_per_Unit": 44.25,
+      "Location": "Chandigarh",
+      "Capacity_per_Month": 7500,
+      "Quality_Rating": 4.4,
+      "Contract_Type": "Long-term"
+    },
+    {
+      "Supplier_Name": "GlobalClothing Inc",
+      "Product": "Clothing",
+      "Lead_Time_Days": 23,
+      "Reliability_Score": 83,
+      "Cost_per_Unit": 30.4,
+      "Location": "Mumbai",
+      "Capacity_per_Month": 6500,
+      "Quality_Rating": 4.1,
+      "Contract_Type": "Short-term"
+    },
+    {
+      "Supplier_Name": "MegaElectronics Ltd",
+      "Product": "Electronics",
+      "Lead_Time_Days": 17,
+      "Reliability_Score": 88,
+      "Cost_per_Unit": 43.8,
+      "Location": "Delhi",
+      "Capacity_per_Month": 9500,
+      "Quality_Rating": 4.3,
+      "Contract_Type": "Medium-term"
+    },
+    {
+      "Supplier_Name": "HealthCare Supplies",
+      "Product": "Pharmaceuticals",
+      "Lead_Time_Days": 10,
+      "Reliability_Score": 94,
+      "Cost_per_Unit": 80.6,
+      "Location": "Bangalore",
+      "Capacity_per_Month": 5500,
+      "Quality_Rating": 4.6,
+      "Contract_Type": "Long-term"
+    },
+    {
+      "Supplier_Name": "PremiumElectronics",
+      "Product": "Electronics",
+      "Lead_Time_Days": 13,
+      "Reliability_Score": 91,
+      "Cost_per_Unit": 46.9,
+      "Location": "Chennai",
+      "Capacity_per_Month": 8000,
+      "Quality_Rating": 4.5,
+      "Contract_Type": "Long-term"
+    },
+    {
+      "Supplier_Name": "FashionTextiles",
+      "Product": "Textiles",
+      "Lead_Time_Days": 20,
+      "Reliability_Score": 85,
+      "Cost_per_Unit": 21.95,
+      "Location": "Kolkata",
+      "Capacity_per_Month": 10500,
+      "Quality_Rating": 4.1,
+      "Contract_Type": "Medium-term"
+    }
+  ],
+  "metadata": {
+    "saved_at": "2025-05-28T16:05:23.174965",
+    "record_count": 20,
+    "data_type": "supplier"
+  }
+}

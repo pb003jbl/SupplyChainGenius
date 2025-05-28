@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "City": "Mumbai",
+      "Product": "Electronics",
+      "Forecasted_Demand": 2500,
+      "Month": "January",
+      "Confidence_Level": 0.85,
+      "Market_Segment": "B2C"
+    },
+    {
+      "City": "Delhi",
+      "Product": "Clothing",
+      "Forecasted_Demand": 1800,
+      "Month": "January",
+      "Confidence_Level": 0.78,
+      "Market_Segment": "B2C"
+    },
+    {
+      "City": "Bangalore",
+      "Product": "Electronics",
+      "Forecasted_Demand": 2200,
+      "Month": "January",
+      "Confidence_Level": 0.82,
+      "Market_Segment": "B2B"
+    },
+    {
+      "City": "Chennai",
+      "Product": "Pharmaceuticals",
+      "Forecasted_Demand": 1600,
+      "Month": "January",
+      "Confidence_Level": 0.91,
+      "Market_Segment": "B2B"
+    },
+    {
+      "City": "Kolkata",
+      "Product": "Food Products",
+      "Forecasted_Demand": 1400,
+      "Month": "January",
+      "Confidence_Level": 0.75,
+      "Market_Segment": "B2C"
+    },
+    {
+      "City": "Pune",
+      "Product": "Electronics",
+      "Forecasted_Demand": 1900,
+      "Month": "January",
+      "Confidence_Level": 0.8,
+      "Market_Segment": "B2C"
+    },
+    {
+      "City": "Hyderabad",
+      "Product": "Textiles",
+      "Forecasted_Demand": 1300,
+      "Month": "January",
+      "Confidence_Level": 0.73,
+      "Market_Segment": "B2B"
+    },
+    {
+      "City": "Ahmedabad",
+      "Product": "Chemicals",
+      "Forecasted_Demand": 1100,
+      "Month": "January",
+      "Confidence_Level": 0.88,
+      "Market_Segment": "B2B"
+    },
+    {
+      "City": "Jaipur",
+      "Product": "Handicrafts",
+      "Forecasted_Demand": 950,
+      "Month": "January",
+      "Confidence_Level": 0.7,
+      "Market_Segment": "B2C"
+    },
+    {
+      "City": "Kochi",
+      "Product": "Spices",
+      "Forecasted_Demand": 800,
+      "Month": "January",
+      "Confidence_Level": 0.76,
+      "Market_Segment": "B2C"
+    },
+    {
+      "City": "Chandigarh",
+      "Product": "Electronics",
+      "Forecasted_Demand": 1200,
+      "Month": "January",
+      "Confidence_Level": 0.81,
+      "Market_Segment": "B2C"
+    },
+    {
+      "City": "Indore",
+      "Product": "Automotive Parts",
+      "Forecasted_Demand": 1500,
+      "Month": "January",
+      "Confidence_Level": 0.84,
+      "Market_Segment": "B2B"
+    },
+    {
+      "City": "Lucknow",
+      "Product": "Textiles",
+      "Forecasted_Demand": 1100,
+      "Month": "January",
+      "Confidence_Level": 0.72,
+      "Market_Segment": "B2C"
+    },
+    {
+      "City": "Bhopal",
+      "Product": "Pharmaceuticals",
+      "Forecasted_Demand": 900,
+      "Month": "January",
+      "Confidence_Level": 0.89,
+      "Market_Segment": "B2B"
+    },
+    {
+      "City": "Coimbatore",
+      "Product": "Textiles",
+      "Forecasted_Demand": 1250,
+      "Month": "January",
+      "Confidence_Level": 0.74,
+      "Market_Segment": "B2B"
+    },
+    {
+      "City": "Mumbai",
+      "Product": "Clothing",
+      "Forecasted_Demand": 1600,
+      "Month": "February",
+      "Confidence_Level": 0.79,
+      "Market_Segment": "B2C"
+    },
+    {
+      "City": "Delhi",
+      "Product": "Electronics",
+      "Forecasted_Demand": 2300,
+      "Month": "February",
+      "Confidence_Level": 0.83,
+      "Market_Segment": "B2C"
+    },
+    {
+      "City": "Bangalore",
+      "Product": "Pharmaceuticals",
+      "Forecasted_Demand": 1750,
+      "Month": "February",
+      "Confidence_Level": 0.9,
+      "Market_Segment": "B2B"
+    },
+    {
+      "City": "Chennai",
+      "Product": "Electronics",
+      "Forecasted_Demand": 2000,
+      "Month": "February",
+      "Confidence_Level": 0.81,
+      "Market_Segment": "B2C"
+    },
+    {
+      "City": "Kolkata",
+      "Product": "Textiles",
+      "Forecasted_Demand": 1200,
+      "Month": "February",
+      "Confidence_Level": 0.71,
+      "Market_Segment": "B2C"
+    }
+  ],
+  "metadata": {
+    "saved_at": "2025-05-28T16:05:23.163816",
+    "record_count": 20,
+    "data_type": "forecast"
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "City": "Mumbai",
+      "Product": "Electronics",
+      "Stock_Level": 2800,
+      "Warehouse_Capacity": 5000,
+      "Safety_Stock": 500,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 2.5
+    },
+    {
+      "City": "Delhi",
+      "Product": "Clothing",
+      "Stock_Level": 1500,
+      "Warehouse_Capacity": 3000,
+      "Safety_Stock": 300,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 1.8
+    },
+    {
+      "City": "Bangalore",
+      "Product": "Electronics",
+      "Stock_Level": 2000,
+      "Warehouse_Capacity": 4000,
+      "Safety_Stock": 400,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 2.3
+    },
+    {
+      "City": "Chennai",
+      "Product": "Pharmaceuticals",
+      "Stock_Level": 1800,
+      "Warehouse_Capacity": 2500,
+      "Safety_Stock": 250,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 4.2
+    },
+    {
+      "City": "Kolkata",
+      "Product": "Food Products",
+      "Stock_Level": 1200,
+      "Warehouse_Capacity": 2000,
+      "Safety_Stock": 200,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 1.2
+    },
+    {
+      "City": "Pune",
+      "Product": "Electronics",
+      "Stock_Level": 1700,
+      "Warehouse_Capacity": 3500,
+      "Safety_Stock": 350,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 2.4
+    },
+    {
+      "City": "Hyderabad",
+      "Product": "Textiles",
+      "Stock_Level": 1400,
+      "Warehouse_Capacity": 2200,
+      "Safety_Stock": 220,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 1.6
+    },
+    {
+      "City": "Ahmedabad",
+      "Product": "Chemicals",
+      "Stock_Level": 950,
+      "Warehouse_Capacity": 1800,
+      "Safety_Stock": 180,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 3.8
+    },
+    {
+      "City": "Jaipur",
+      "Product": "Handicrafts",
+      "Stock_Level": 800,
+      "Warehouse_Capacity": 1500,
+      "Safety_Stock": 150,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 1.4
+    },
+    {
+      "City": "Kochi",
+      "Product": "Spices",
+      "Stock_Level": 650,
+      "Warehouse_Capacity": 1200,
+      "Safety_Stock": 120,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 2.1
+    },
+    {
+      "City": "Chandigarh",
+      "Product": "Electronics",
+      "Stock_Level": 1300,
+      "Warehouse_Capacity": 2500,
+      "Safety_Stock": 250,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 2.35
+    },
+    {
+      "City": "Indore",
+      "Product": "Automotive Parts",
+      "Stock_Level": 1600,
+      "Warehouse_Capacity": 3000,
+      "Safety_Stock": 300,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 3.2
+    },
+    {
+      "City": "Lucknow",
+      "Product": "Textiles",
+      "Stock_Level": 950,
+      "Warehouse_Capacity": 1800,
+      "Safety_Stock": 180,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 1.55
+    },
+    {
+      "City": "Bhopal",
+      "Product": "Pharmaceuticals",
+      "Stock_Level": 1100,
+      "Warehouse_Capacity": 1500,
+      "Safety_Stock": 150,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 4.1
+    },
+    {
+      "City": "Coimbatore",
+      "Product": "Textiles",
+      "Stock_Level": 1350,
+      "Warehouse_Capacity": 2100,
+      "Safety_Stock": 210,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 1.65
+    },
+    {
+      "City": "Mumbai",
+      "Product": "Clothing",
+      "Stock_Level": 1400,
+      "Warehouse_Capacity": 2800,
+      "Safety_Stock": 280,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 1.75
+    },
+    {
+      "City": "Delhi",
+      "Product": "Electronics",
+      "Stock_Level": 2500,
+      "Warehouse_Capacity": 4500,
+      "Safety_Stock": 450,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 2.45
+    },
+    {
+      "City": "Bangalore",
+      "Product": "Pharmaceuticals",
+      "Stock_Level": 1650,
+      "Warehouse_Capacity": 2200,
+      "Safety_Stock": 220,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 4.15
+    },
+    {
+      "City": "Chennai",
+      "Product": "Electronics",
+      "Stock_Level": 2200,
+      "Warehouse_Capacity": 4200,
+      "Safety_Stock": 420,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 2.25
+    },
+    {
+      "City": "Kolkata",
+      "Product": "Textiles",
+      "Stock_Level": 1050,
+      "Warehouse_Capacity": 1900,
+      "Safety_Stock": 190,
+      "Last_Updated": "2024-01-15",
+      "Storage_Cost_per_Unit": 1.5
+    }
+  ],
+  "metadata": {
+    "saved_at": "2025-05-28T16:05:23.167520",
+    "record_count": 20,
+    "data_type": "inventory"
+  }
+}

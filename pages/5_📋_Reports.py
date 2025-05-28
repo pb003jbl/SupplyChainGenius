@@ -10,7 +10,7 @@ import base64
 from utils.data_handler import DataHandler
 from utils.groq_client import GroqClient
 
-st.set_page_config(page_title="Reports", page_icon="📋", layout="wide")
+
 
 def main():
     st.title("📋 Executive Reports & Analytics")

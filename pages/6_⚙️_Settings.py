@@ -3,7 +3,7 @@ import os
 import json
 from pathlib import Path
 
-st.set_page_config(page_title="Settings", page_icon="⚙️", layout="wide")
+
 
 def main():
     st.title("⚙️ Platform Settings")
