@@ -156,8 +156,21 @@ def configure_apis():
             "Google Maps API Key",
             value=config.get("maps_api_key", ""),
             type="password",
-            help="For geographic analysis and routing"
+            help="For interactive maps, route optimization, and geographic analysis"
         )
+        
+        if maps_api_key and st.button("🧪 Test Google Maps API"):
+            with st.spinner("Testing Google Maps API..."):
+                from utils.maps_integration import GoogleMapsIntegration
+                maps_client = GoogleMapsIntegration()
+                test_result = maps_client.test_api_connection()
+                
+                if test_result["success"]:
+                    st.success("✅ Google Maps API connected successfully!")
+                    st.info(test_result["message"])
+                else:
+                    st.error(f"❌ Google Maps API test failed: {test_result['error']}")
+                    st.info("Please verify your API key and ensure the following APIs are enabled: Geocoding, Directions, Distance Matrix")
     
     # Save configuration
     if st.button("💾 Save API Configuration", type="primary"):

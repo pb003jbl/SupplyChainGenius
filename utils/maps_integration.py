@@ -315,7 +315,7 @@ class GoogleMapsIntegration:
         <p><span style="color:purple">━━━</span> Optimized Route</p>
         </div>
         '''
-        m.get_root().html.add_child(folium.Element(legend_html))
+        m.get_root().children[list(m.get_root().children.keys())[0]].add_child(folium.Element(legend_html))
         
         return m
     
