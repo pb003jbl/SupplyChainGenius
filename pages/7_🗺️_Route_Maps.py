@@ -4,7 +4,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from utils.data_handler import DataHandler
 from utils.maps_integration import GoogleMapsIntegration
-from streamlit_folium import folium_static
+from streamlit_folium import st_folium
 
 def main():
     st.title("🗺️ Interactive Route Maps & Optimization")
@@ -80,7 +80,7 @@ def main():
             if route_data:
                 # Create and display interactive map
                 interactive_map = maps_integration.create_interactive_map(route_data)
-                folium_static(interactive_map, width=800, height=600)
+                st_folium(interactive_map, width=800, height=600)
             else:
                 st.info("No routes match the current filters")
     
@@ -146,7 +146,7 @@ def main():
                             
                             # Create map with optimized route
                             optimized_map = maps_integration.create_interactive_map(route_data, optimization_result)
-                            folium_static(optimized_map, width=800, height=500)
+                            st_folium(optimized_map, width=800, height=500)
                         
                         else:
                             st.error("Route optimization failed. Please check your Google Maps API configuration.")
