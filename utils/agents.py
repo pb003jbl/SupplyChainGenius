@@ -53,7 +53,7 @@ class SupplyChainAgents:
                     "model": self.config.get("groq_model", "llama3-8b-8192"),
                     "api_key": os.getenv("GROQ_API_KEY") or self.config.get("groq_api_key"),
                     "base_url": self.config.get("groq_endpoint", "https://api.groq.com/openai/v1"),
-                    "api_type": "open_ai"
+                    "api_type": "openai"
                 }],
                 "temperature": self.config.get(f"{agent_type}_temperature", 0.3),
                 "timeout": self.config.get("agent_timeout", 120)
