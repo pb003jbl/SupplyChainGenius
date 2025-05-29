@@ -1,0 +1,10 @@
+autogen-agentchat>=0.5.7
+folium>=0.19.6
+groq>=0.25.0
+numpy>=2.2.6
+pandas>=2.2.3
+plotly>=6.1.2
+requests>=2.32.3
+streamlit-folium>=0.25.0
+streamlit>=1.45.1
+tavily-python>=0.7.3
